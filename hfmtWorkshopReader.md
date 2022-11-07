@@ -4,7 +4,13 @@ Add notes, ideas, questions, links, etc. during workshop here.
 Save via `Save to` >> `Github` then confirm `Commit` (= commit to public git repository).
 
 
+
+
 ## Notes
+
+Hier ist Platz für Notizen und Infos.
+
+
 
 ## Links and Resources
 
@@ -31,4 +37,5 @@ Verarbeiten von Kommunikationsdaten (messages) über einen zentralen Server (bro
 ## Workshop-WebApp BUGS und ISSUES ;-)
 [ ] ISSUE: Presets offline speichern
 [ ] BUG: is image uploade AI re-tagging on startup ?
-[ ] 
+[ ] ISSUE: ?!?
+[ ] BUG: ?!?
