@@ -1,10 +1,12 @@
 # HfMT Workshop
 
+Add notes, ideas, questions, links, etc. during workshop here.
+Save (commit to public git repository) via `Save to` >> `Github` then 
+
 ## Notes
 
 ## Links and Resources
 
-- next Link
 
 - Markdown
 Syntax, die einfachen Text in einem bestimmten Layout interpretiert. Optimiert für web und digitale Dokumente, kann mittleriweile auch sehr gut für Print-Layout genutzt werden.
