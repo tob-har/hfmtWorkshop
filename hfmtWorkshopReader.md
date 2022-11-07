@@ -30,4 +30,5 @@ Verarbeiten von Kommunikationsdaten (messages) über einen zentralen Server (bro
 
 ## Workshop-WebApp BUGS und ISSUES ;-)
 [ ] ISSUE: Presets offline speichern
-[ ] BUG: ... ?!?
+[ ] BUG: is image uploade AI re-tagging on startup ?
+[ ] 
