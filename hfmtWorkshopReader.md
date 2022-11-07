@@ -1,7 +1,8 @@
 # HfMT Workshop
 
 Add notes, ideas, questions, links, etc. during workshop here.
-Save (commit to public git repository) via `Save to` >> `Github` then 
+Save via `Save to` >> `Github` then confirm `Commit` (= commit to public git repository).
+
 
 ## Notes
 
